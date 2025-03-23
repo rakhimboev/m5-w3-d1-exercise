@@ -6,7 +6,7 @@ Simple React component for OAuth2 login.
 
 Supports **Authorization Code** and **Implicit Grant** flows.
 
-## RTFM
+## RTFMf
 
 * [Usage](#usage)
 
